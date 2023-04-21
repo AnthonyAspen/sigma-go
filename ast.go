@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/bradleyjkemp/sigma-go/internal/grammar"
+	"github.com/AnthonyAspen/sigma-go/internal/grammar"
 )
 
 type Condition struct {

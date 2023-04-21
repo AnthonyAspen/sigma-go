@@ -9,8 +9,8 @@ import (
 	"regexp"
 	"strings"
 
+	"github.com/AnthonyAspen/sigma-go"
 	"github.com/PaesslerAG/jsonpath"
-	"github.com/bradleyjkemp/sigma-go"
 )
 
 func (rule RuleEvaluator) evaluateSearchExpression(search sigma.SearchExpr, searchResults map[string]bool) bool {

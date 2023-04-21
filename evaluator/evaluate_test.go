@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/bradleyjkemp/sigma-go"
+	"github.com/AnthonyAspen/sigma-go"
 )
 
 func TestRuleEvaluator_Matches(t *testing.T) {

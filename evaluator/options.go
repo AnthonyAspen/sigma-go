@@ -3,7 +3,7 @@ package evaluator
 import (
 	"context"
 
-	"github.com/bradleyjkemp/sigma-go"
+	"github.com/AnthonyAspen/sigma-go"
 )
 
 type Option func(*RuleEvaluator)

@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/bradleyjkemp/sigma-go"
+	"github.com/AnthonyAspen/sigma-go"
 )
 
 const testRule = `

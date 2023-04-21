@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/bradleyjkemp/sigma-go"
+	"github.com/AnthonyAspen/sigma-go"
 )
 
 func TestRuleEvaluator_RelevantToEvent_LogsourceRewriting(t *testing.T) {
